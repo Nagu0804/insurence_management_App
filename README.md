@@ -3,13 +3,13 @@
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/homepage.png?raw=true)
+![homepage snap](https://github.com/Nagu0804/insurence_management_App/blob/main/static/screenshots/dashboard.png?raw=true)
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/dashboard.png?raw=true)
+![dashboard snap](https://github.com/Nagu0804/insurence_management_App/blob/main/static/screenshots/homepage.png?raw=true)
 ### Policy Record
-![invoice snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/policyrecord.png?raw=true)
+![invoice snap](https://github.com/Nagu0804/insurence_management_App/blob/main/static/screenshots/policy.png?raw=true)
 ### Policy 
-![doctor snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/policy.png?raw=true)
+![doctor snap](https://github.com/Nagu0804/insurence_management_App/blob/main/static/screenshots/policyrecord.png?raw=true)
 ---
 ## Functions
 ### Admin
@@ -56,16 +56,9 @@ EMAIL_HOST_USER = 'youremail@gmail.com'
 EMAIL_HOST_PASSWORD = 'your email password'
 EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 ```
-- Login to gmail through host email id in your browser and open following link and turn it ON
-```
-https://myaccount.google.com/lesssecureapps
-```
 
 
 ## Disclaimer
 This project is developed for demo purpose and it's not supposed to be used in real application.
 
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoderonline)
+
