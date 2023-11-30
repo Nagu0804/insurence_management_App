@@ -1,5 +1,5 @@
 # Insurance Management
-![developer](Developed%20By%20%3A-Nagarjun-red)
+
 ---
 ## screenshots
 ### Homepage
